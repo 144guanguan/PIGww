@@ -6,8 +6,8 @@ from PIL import Image
 
 # Face++的key和secret
 # https://console.faceplusplus.com.cn/app/apikey/list
-key = "WV2eIYImXLWOemZ1o_5ZTOlXvsS2wa2p"
-secret = "G2JjsMnlDWbeO7z13R5L9PFk_7nCyf9D"
+key = "your key"
+secret = "your secret"
 
 # 获取人脸关键点
 def find_face(imgpath):
